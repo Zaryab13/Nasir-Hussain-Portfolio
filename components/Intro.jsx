@@ -29,7 +29,7 @@ const Intro = () => {
           >
             <Image
               src={ProfileImage}
-              alt="Zaryab Khan Full Stack Developer"
+              alt="Nasir Hussain Data Scientist"
               priority={true}
               className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
@@ -54,12 +54,11 @@ const Intro = () => {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I&apos;m Zaryab Khan.</span> I&apos;m
-        a <span className="font-bold">Front-End developer</span> with{" "}
-        <span className="font-bold">over 1 year</span> of experience. I enjoy
-        building appealing <span className="italic">sites & apps</span>. My
-        focus is <span className="underline"> Full Stack Development</span> in
-        JavaScript
+        <span className="font-bold">Hello, I&apos;m Nasir Hussain.</span> I&apos;m
+        a <span className="font-bold">Junior Data Scientist</span> with{" "}
+        <span className="font-bold">over 1.5 years</span> of experience. I have hands on experience websites, management systems <span className="italic">and in Data Science</span>. My
+        focus is <span className="underline">Data Science</span> using
+        Python,Tableau and PowerBI.
       </motion.h1>
 
       <motion.div
