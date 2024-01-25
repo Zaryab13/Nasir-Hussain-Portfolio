@@ -28,7 +28,7 @@ const About = () => {
     >
       <SectionHeading>about me</SectionHeading>
       <p className="mb-3">
-        I am an enthususatic person about tech, from early ages of my life. I
+        I am an enthusiastic person about technology, from early ages of my life. I
         have spent the last{" "}
         <span className="font-medium">1.5 years at FirstNetSystems</span> to get
         hands-on experience in data science,{" "}
@@ -49,9 +49,9 @@ const About = () => {
         developer.
       </p>
       <p>
-        <span className="italic">When I&apos;m not coding</span>, I enjoy
-       Drawing Sketches, watching movies, and playing Video Games. I also
-        enjoy <span className="font-medium">learning new things</span>. I am
+        <span className="italic">When I&apos;m not coding</span>,I do tutions in Programming and Science subjects, enjoy
+        Sketching, watching movies, and hiking.I am always open to
+        <span className="font-medium">learning new things</span>. I am
         currently learning about{" "}
         <span className="font-medium">Photography </span>. I&apos;m
         also learning how to play the guitar.
