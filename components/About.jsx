@@ -37,11 +37,11 @@ const About = () => {
         enrolled in Software Engineering working on a Bio-Medical project based
         on <strong className="font-medium"> Machine Learning </strong> and{" "}
         <strong className="font-medium"> Deep Learning.</strong>{" "}
-        <span className="italic">I love the problem solving aspect</span> of Engineering. I <span className="underline">love</span> the
+        <span className="italic">I enjoy the problem solving aspect</span> of Engineering. I <span className="underline">like</span> the
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          C++, Pyhton, MongoDB and Django.
+          C++, Pyhton, MongoDB,Django and Wordpress.
         </span>
         . I am also familiar with Mysql. I am always looking to
         learn new technologies. I am currently looking for a{" "}

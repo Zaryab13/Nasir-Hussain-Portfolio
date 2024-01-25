@@ -84,12 +84,16 @@ const Intro = () => {
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
         </a>
         <a
+        href="https://www.linkedin.com/in/nasir-hussain-17bb23258/"
+        target="_blank"
           className="bg-white
          text-gray-700 px-7 py-4 sm:p-4 flex items-center justify-center shadow-2xl rounded-full cursor-pointer focus:scale-[1.15] hover:text-gray-950 hover:scale-[1.15] active:scale-105 transition borderBlack dark:bg-white/10 dark:text-white/60"
         >
           <BsLinkedin />
         </a>
         <a
+        href="https://github.com/nasir-hussain-swat"
+        target="_blank"
           className="bg-white
          text-gray-700 p-4 flex items-center justify-center text-[1.25rem] shadow-2xl rounded-full cursor-pointer focus:scale-[1.15] hover:text-gray-950 hover:scale-[1.15] active:scale-105 transition borderBlack dark:bg-white/10 dark:text-white/60"
         >
