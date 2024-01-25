@@ -55,8 +55,8 @@ const Intro = () => {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I&apos;m Nasir Hussain.</span> I&apos;m
-        a <span className="font-bold">Junior Data Scientist</span> with{" "}
-        <span className="font-bold">over 1.5 years</span> of experience. I have hands on experience websites, management systems <span className="italic">and in Data Science</span>. My
+        a <span className="font-bold">Junior Data Scientist and Web Developer</span> with{" "}
+        <span className="font-bold">over 1.5 years</span> of experience. I have hands on experience in websites, management systems <span className="italic">and in Data Science</span>. My
         focus is <span className="underline">Data Science</span> using
         Python,Tableau and PowerBI.
       </motion.h1>
