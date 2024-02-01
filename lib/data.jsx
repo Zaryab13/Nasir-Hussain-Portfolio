@@ -5,6 +5,7 @@ import pricerImg from "@/public/Pricer.png";
 import InvitationImg from "@/public/InvitationIEEE.png";
 import CustomerAnalysisImg from "@/public/Customerana.png";
 import CovidAnalysisImg from "@/public/CovidAnalysis.png";
+import SwatValleyImg from "@/public/swatvalley.png";
 
 export const links = [
   {
@@ -79,6 +80,13 @@ export const projectsData = [
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["python", "pandas", "numpy", "seaborn", "matplotlib"],
     imageUrl: CovidAnalysisImg,
+  },
+  {
+    title: "Visit Swat Valley",
+    description:
+      "A website regarding swat valley which is situated in the KPK Province of Pakistan (where i am from).Providing Information about its culture and tourist popular sites",
+    tags: ["HTML", "CSS", "JAVASCRIPT"],
+    imageUrl: SwatValleyImg,
   },
 ];
 
